@@ -1,2 +1,2 @@
 # OSFT
-Open Source Financial Terminal
+A free open-sourced financial terminal for simplified investment due dilligance.
